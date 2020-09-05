@@ -8,7 +8,10 @@
     "@testing-library/user-event": "^7.2.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.3"
+    "react-parallax": "^3.0.3",
+    "react-parallax-3d": "^0.1.2",
+    "react-scripts": "3.4.3",
+    "react-scroll-parallax": "^2.3.4"
   },
   "scripts": {
     "start": "react-scripts start",
